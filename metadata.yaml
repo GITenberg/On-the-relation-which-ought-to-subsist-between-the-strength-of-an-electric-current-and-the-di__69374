@@ -1,0 +1,32 @@
+_repo: On-the-relation-which-ought-to-subsist-between-the-strength-of-an-electric-current-and-the-di__69374
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Forbes, George
+    birthdate: 1849
+    deathdate: 1936
+    gutenberg_agent_id: '2679'
+    url: http://www.gutenberg.org/2009/agents/2679
+    wikipedia: https://en.wikipedia.org/wiki/George_Forbes_(scientist)
+description: ''
+gutenberg_issued: '2022-11-18'
+identifiers:
+  gutenberg: '69374'
+language: en
+pgterms:marc905: 20201129212340forbes
+pgterms:marc906: '1884'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United States: McCorquodale,1884.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Electric conductors'
+- !lcc 'TK'
+- GITenberg
+title: "On the relation which ought to subsist between the strength of an electric\
+  \ current and the diameter of conductors, to prevent overheating\r\nA paper read\
+  \ at the Society of Telegraph-Engineers and Electricians, March 27th, 1884."
+url: http://www.gutenberg.org/ebooks/69374
