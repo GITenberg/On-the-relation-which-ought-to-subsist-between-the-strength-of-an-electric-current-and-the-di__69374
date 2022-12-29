@@ -1,5 +1,8 @@
 _repo: On-the-relation-which-ought-to-subsist-between-the-strength-of-an-electric-current-and-the-di__69374
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69474-t/images/cover.jpg
 creator:
   author:
     agent_name: Forbes, George
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2679
     wikipedia: https://en.wikipedia.org/wiki/George_Forbes_(scientist)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69374#On-the-relation-which-ought-to-subsist-between-the-strength-of-an-electric-current-and-the-di_
 gutenberg_issued: '2022-11-18'
 identifiers:
   gutenberg: '69374'
